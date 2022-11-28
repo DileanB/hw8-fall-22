@@ -2,6 +2,8 @@
 
 ## Notes
 
+//My notes
+
 - Please download the homework from [here](https://github.com/umass-compsci-220/hw8-fall-22/raw/main/hw8-fall-22.zip)
 - This project will be using Node.js and VSCode
   - Reference the [previous homeworks installation instructions](https://github.com/umass-compsci-220/hw6-fall-22/blob/main/INSTALLATION.md) if need help getting everything installed
